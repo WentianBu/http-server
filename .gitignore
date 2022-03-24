@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ignore .vscode files
+.vscode/
+
+# Ignore build directory
+build/
+
+# Ignore website root directory
+www/
